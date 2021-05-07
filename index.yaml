@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sleep-indef:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-05-07T13:55:34.742897362+03:00"
+    description: Sleep indefinitely
+    digest: 52865df21f2fb59d84b6b70f5769c1d32711c4ee93dc94190d815c909670579d
+    name: sleep-indef
+    type: application
+    urls:
+    - https://gtrafimenkov.github.io/helm-charts-public/sleep-indef-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-05-07T13:55:34.741827541+03:00"
